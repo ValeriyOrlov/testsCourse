@@ -1,0 +1,26 @@
+{
+  "name": "testscourse",
+  "version": "1.0.0",
+  "description": "jestTest",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriyOrlov/testsCourse.git"
+  },
+  "author": "ValeriyOrlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriyOrlov/testsCourse/issues"
+  },
+  "homepage": "https://github.com/ValeriyOrlov/testsCourse#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
